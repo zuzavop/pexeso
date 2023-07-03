@@ -1,7 +1,7 @@
 # Pexeso
 Pexeso is a C# project that implements a classic pairs game, also known as Concentration or Memory. It allows players to test their memory skills by matching pairs of cards with identical designs. What sets Pexeso apart is that it features a unique hand-designed cards, adding a kind of personal touch to the game.
 
-![card design](./Pexeso/res/kaktus.png)
+<img src="./Pexeso/res/kaktus.png" alt="card design" width="100" height="100"/>
 
 ## Getting started
 To run Pexeso locally, follow these steps:
